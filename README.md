@@ -5,7 +5,7 @@
 
 <h1 >Hey there, I'm Mariana   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <p><h2>About me</h2></p>
-<p>👩‍🎓 I'm an undergraduate Computer Science student</p>   
+<p>👩‍🎓 I'm a Software Engineer master's student</p>   
 <p>🎓 You can find many of my university projects below</p>
 <p>:relaxed:Interested in front end development</p>
 <p>🖥️ Passionate about learning new skills</p>
